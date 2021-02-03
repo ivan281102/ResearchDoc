@@ -25,7 +25,7 @@ Typical expressions are infix: a literal (or an expression), followed by an oper
 
 **Problem solving methods**
 
-Problem solving is the act of defining a problem; determining the cause of the problem; identifying, prioritizing, and selecting alternatives for a solution; and implementing a solution. Is used when products or processes fail, so corrective action can be taken to prevent further failures. It can also be applied to a product or process prior to an actual failure event—when a potential problem can be predicted and analyzed, and mitigation applied so the problem never occurs. Techniques such as failure mode and effects analysis can be used to proactively reduce the likelihood of problems occurring.
+Problem solving is the act of defining a problem; determining the cause of the problem; identifying, prioritizing, and selecting alternatives for a solution; and implementing a solution. Is used when products or processes fail, so corrective action can be taken to prevent further failures. It can also be applied to a product or process prior to an actual failure event, when a potential problem can be predicted and analyzed, and mitigation applied so the problem never occurs. Techniques such as failure mode and effects analysis can be used to proactively reduce the likelihood of problems occurring.
 
 
 **_Iván Alonzo, Diego Gonzáles, Luis Martínez_**
